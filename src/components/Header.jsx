@@ -8,7 +8,7 @@ const Header = () => {
         {name:"GALLERY",link:"/"},
         {name:"ABOUT",link:"/"},
         {name:"PROGRAMS",link:"/"},
-        {name:"VOLUTEER US",link:"/"},
+        {name:"VOLUTEER",link:"/"},
       ];
       let [open, setOpen] =useState(false);
 
