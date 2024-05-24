@@ -2,16 +2,17 @@
 
     1. Donation portal
     2. volutneer section
-    3. Success Stories
+    3. Success Stories from Muskaan program
     4.
 
 ## Pages
 
-    1. Home
+    1. Home :
     2. Gallery
     3. About us
-        a. Our Mission
-        b.  Objective
+        a. Who are we?
+        b. Our Mission
+        c.  Vision
     4. Our Program
     5. Donate
     7. Volunteer us
