@@ -5,9 +5,10 @@ import logo from '../assets/logoFHE.png';
 const Header = () => {
     let Links =[
         {name:"HOME",link:"/"},
-        {name:"SERVICE",link:"/"},
+        {name:"GALLERY",link:"/"},
         {name:"ABOUT",link:"/"},
-        {name:"CONTACT",link:"/"},
+        {name:"PROGRAMS",link:"/"},
+        {name:"VOLUTEER US",link:"/"},
       ];
       let [open, setOpen] =useState(false);
 
@@ -32,7 +33,7 @@ const Header = () => {
                         <a href={link.link} className='text-gray-800 hover:text-blue-400 duration-500'>{link.name}</a>
                     </li>))
                 }
-                <button className='btn bg-blue-600 text-white md:ml-8 font-semibold px-3 py-1 rounded duration-500 md:static'>Get Started</button>
+                <button className='btn bg-blue-600 text-white md:ml-8 font-semibold px-3 py-1 rounded duration-500 md:static'>DONATE</button>
             </ul>
             {/* button */}
            </div>
