@@ -6,14 +6,14 @@ const Header = () => {
     let Links =[
         {name:"HOME",link:"/"},
         {name:"GALLERY",link:"/"},
-        {name:"ABOUT",link:"/"},
+        {name:"ABOUT",link:"/about"},
         {name:"PROGRAMS",link:"/"},
         {name:"VOLUTEER",link:"/"},
       ];
       let [open, setOpen] =useState(false);
 
     return (
-        <div className='shadow-md w-full fixed top-0 left-0'>
+        <div className='w-full fixed top-0 left-0'>
            <div className='md:flex items-center justify-between bg-white py-4 md:px-10 px-7'>
             {/* logo section */}
             <div className='font-bold text-2xl cursor-pointer flex items-center gap-1'>
