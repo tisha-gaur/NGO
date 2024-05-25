@@ -21,9 +21,7 @@ const FeatureCard = ({ title, para }) => {
         )}
       </div>
       <h4 className="pb-4 pt-2 text-2xl">{title}</h4>
-      <p className=" text-base text-pretty">
-        Provide essential medical care, vaccinations, and health education
-      </p>
+      <p className=" text-base text-pretty">{para}</p>
     </div>
   );
 };
