@@ -7,7 +7,7 @@ import Header from "./components/Header";
 
 const App = () => {
   return (
-    <>
+    <div className=" antialiased">
       <BrowserRouter>
         <Header />
         <Routes>
@@ -15,7 +15,7 @@ const App = () => {
           <Route path="/about" element={<About />} />
         </Routes>
       </BrowserRouter>
-    </>
+    </div>
   );
 };
 
