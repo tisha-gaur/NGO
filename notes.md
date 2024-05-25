@@ -7,7 +7,7 @@
 
 ## Pages
 
-    1. Home :
+    1. Home : Donate section, team, testimonials(optional), program, about us, impact,
     2. Gallery
     3. About us
         a. Who are we?

@@ -12,7 +12,7 @@ const AboutLanding = () => {
             FHE INDIA
           </span>
         </h1>
-        <p className="pt-8 text-xl text-pretty">
+        <p className="pt-8 p">
           We envision a future where women and children in Delhi's slums are
           educated, empowered, and elevated through access to quality healthcare
           and education. This will create a ripple effect, uplifting entire

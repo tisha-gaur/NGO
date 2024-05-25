@@ -4,6 +4,9 @@ export default {
   theme: {
     extend: {
       colors: {},
+      backgroundImage: {
+        bg1: "url(bg2.jpg)",
+      },
     },
   },
   plugins: [],
