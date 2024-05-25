@@ -1,5 +1,5 @@
 import React from "react";
-import FeatureCard from "./card";
+import FeatureCard from "./featureCard";
 // import bgImage from "../../assets/bg1.jpg"
 
 const WhatWeDo = () => {
