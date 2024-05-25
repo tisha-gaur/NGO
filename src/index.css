@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.squareImg {
+    @apply w-40;
+    @apply h-40;
+    @apply object-cover;
+    @apply rounded;
+}
+
+.h1 {
+    @apply text-4xl;
+    @apply font-thin;
+    @apply text-blue-950;
+}
