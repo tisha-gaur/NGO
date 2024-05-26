@@ -7,7 +7,7 @@ const WhoAreWe = () => {
         <h1 className="h1">
           WHO ARE <span className="font-semibold">WE</span>
         </h1>
-        <p className="text-xl text-pretty">
+        <p className="p">
           Family Health and Education (FHE) is a Public Charitable Trust
           established in 2003, working tirelessly to improve the lives of women
           and children in Delhi's slums. We focus on medical care, education,
@@ -18,9 +18,9 @@ const WhoAreWe = () => {
       </div>
       <div className=" grid grid-cols-2 gap-4">
         <img className="squareImg" src="./image1.jpg" alt="image1" />
-        <img className="squareImg  " src="./image2.jpg" alt="image2" />
-        <img className="squareImg " src="image3.jpg" alt="image3" />
-        <img className="squareImg " src="image4.jpg" alt="image4" />
+        <img className="squareImg" src="./image2.jpg" alt="image2" />
+        <img className="squareImg" src="image3.jpg" alt="image3" />
+        <img className="squareImg" src="image4.jpg" alt="image4" />
       </div>
     </div>
   );
