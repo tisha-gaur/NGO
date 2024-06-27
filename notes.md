@@ -26,3 +26,10 @@
     https://dribbble.com/shots/23279807-NGO-landing-page
     https://dribbble.com/shots/20849261-Pracima-Donation-Landing-Page
     https://dribbble.com/shots/23395099-NGO-Website
+    Figma Design:  https://www.figma.com/design/2CLStkiPpoCOLRj1giUOT8/NGO-Web-Design---Desktop-only-(Community)?node-id=0-1&t=zLAVhPirMlcFYA1O-0
+
+## CHANGES SUGGGESTED BY YASH TYAGI BRO
+
+     1. navbar not dark - light karro thoda
+     2. color psychology
+     3.
